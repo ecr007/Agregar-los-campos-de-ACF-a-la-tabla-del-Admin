@@ -1,5 +1,6 @@
 # Agregar-los-campos-de-ACF-a-la-tabla-del-Admin
 
+<img src="https://raw.githack.com/ecr007/Agregar-los-campos-de-ACF-a-la-tabla-del-Admin/master/2016-01-05_1516.png" />
 
 ```php
 /*
