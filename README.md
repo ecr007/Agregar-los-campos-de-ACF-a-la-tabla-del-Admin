@@ -4,6 +4,9 @@
 
 ```php
 function my_page_columns($columns) {
+ 
+ // Se deben colocar tambien los nombres de las columnas como date,title,author, etc etc
+ 
  $columns = array(
   'cb' => '< input type="checkbox" />',
   'title' => 'Title',
